@@ -18,7 +18,7 @@ The create_missing_person_csv function is responsible for creating a CSV file an
 Usage:
 To use this script, you will need to have Python and the following Python packages installed:
 
-selenium
-webdrivermanager
-beautifulsoup4
-requests
+1. selenium
+2. webdrivermanager
+3. beautifulsoup4
+4. requests
